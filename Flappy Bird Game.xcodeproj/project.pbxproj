@@ -17,6 +17,15 @@
 		80FEE5851E855DCD00A6CAD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5831E855DCD00A6CAD5 /* LaunchScreen.storyboard */; };
 		80FEE5901E855DCD00A6CAD5 /* Flappy_Bird_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FEE58F1E855DCD00A6CAD5 /* Flappy_Bird_GameTests.swift */; };
 		80FEE59B1E855DCD00A6CAD5 /* Flappy_Bird_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FEE59A1E855DCD00A6CAD5 /* Flappy_Bird_GameUITests.swift */; };
+		80FEE5AD1E855E7200A6CAD5 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5A81E855E7200A6CAD5 /* bg.png */; };
+		80FEE5AE1E855E7200A6CAD5 /* flappy1.png in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5A91E855E7200A6CAD5 /* flappy1.png */; };
+		80FEE5AF1E855E7200A6CAD5 /* flappy2.png in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5AA1E855E7200A6CAD5 /* flappy2.png */; };
+		80FEE5B01E855E7200A6CAD5 /* pipe1.png in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5AB1E855E7200A6CAD5 /* pipe1.png */; };
+		80FEE5B11E855E7200A6CAD5 /* pipe2.png in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5AC1E855E7200A6CAD5 /* pipe2.png */; };
+		80FEE5B51E85AF3E00A6CAD5 /* flap.wav in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5B21E85AF3E00A6CAD5 /* flap.wav */; };
+		80FEE5B61E85AF3E00A6CAD5 /* hurt.wav in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5B31E85AF3E00A6CAD5 /* hurt.wav */; };
+		80FEE5B71E85AF3E00A6CAD5 /* score.wav in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5B41E85AF3E00A6CAD5 /* score.wav */; };
+		80FEE5B91E85B58F00A6CAD5 /* Flappy_Bird_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 80FEE5B81E85B58F00A6CAD5 /* Flappy_Bird_icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,15 @@
 		80FEE5961E855DCD00A6CAD5 /* Flappy Bird GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flappy Bird GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		80FEE59A1E855DCD00A6CAD5 /* Flappy_Bird_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flappy_Bird_GameUITests.swift; sourceTree = "<group>"; };
 		80FEE59C1E855DCD00A6CAD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80FEE5A81E855E7200A6CAD5 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		80FEE5A91E855E7200A6CAD5 /* flappy1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flappy1.png; sourceTree = "<group>"; };
+		80FEE5AA1E855E7200A6CAD5 /* flappy2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flappy2.png; sourceTree = "<group>"; };
+		80FEE5AB1E855E7200A6CAD5 /* pipe1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipe1.png; sourceTree = "<group>"; };
+		80FEE5AC1E855E7200A6CAD5 /* pipe2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipe2.png; sourceTree = "<group>"; };
+		80FEE5B21E85AF3E00A6CAD5 /* flap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = flap.wav; sourceTree = "<group>"; };
+		80FEE5B31E85AF3E00A6CAD5 /* hurt.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hurt.wav; sourceTree = "<group>"; };
+		80FEE5B41E85AF3E00A6CAD5 /* score.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = score.wav; sourceTree = "<group>"; };
+		80FEE5B81E85B58F00A6CAD5 /* Flappy_Bird_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Flappy_Bird_icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +125,15 @@
 				80FEE5761E855DCD00A6CAD5 /* GameScene.sks */,
 				80FEE5781E855DCD00A6CAD5 /* Actions.sks */,
 				80FEE57A1E855DCD00A6CAD5 /* GameScene.swift */,
+				80FEE5A81E855E7200A6CAD5 /* bg.png */,
+				80FEE5A91E855E7200A6CAD5 /* flappy1.png */,
+				80FEE5AA1E855E7200A6CAD5 /* flappy2.png */,
+				80FEE5AB1E855E7200A6CAD5 /* pipe1.png */,
+				80FEE5AC1E855E7200A6CAD5 /* pipe2.png */,
+				80FEE5B81E85B58F00A6CAD5 /* Flappy_Bird_icon.png */,
+				80FEE5B21E85AF3E00A6CAD5 /* flap.wav */,
+				80FEE5B31E85AF3E00A6CAD5 /* hurt.wav */,
+				80FEE5B41E85AF3E00A6CAD5 /* score.wav */,
 				80FEE57C1E855DCD00A6CAD5 /* GameViewController.swift */,
 				80FEE57E1E855DCD00A6CAD5 /* Main.storyboard */,
 				80FEE5811E855DCD00A6CAD5 /* Assets.xcassets */,
@@ -202,6 +229,7 @@
 				TargetAttributes = {
 					80FEE5701E855DCC00A6CAD5 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 7P5A5MFF2S;
 						ProvisioningStyle = Automatic;
 					};
 					80FEE58A1E855DCD00A6CAD5 = {
@@ -242,10 +270,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				80FEE5801E855DCD00A6CAD5 /* Main.storyboard in Resources */,
+				80FEE5B91E85B58F00A6CAD5 /* Flappy_Bird_icon.png in Resources */,
 				80FEE5771E855DCD00A6CAD5 /* GameScene.sks in Resources */,
+				80FEE5B71E85AF3E00A6CAD5 /* score.wav in Resources */,
+				80FEE5AD1E855E7200A6CAD5 /* bg.png in Resources */,
+				80FEE5B61E85AF3E00A6CAD5 /* hurt.wav in Resources */,
 				80FEE5821E855DCD00A6CAD5 /* Assets.xcassets in Resources */,
+				80FEE5B11E855E7200A6CAD5 /* pipe2.png in Resources */,
+				80FEE5AF1E855E7200A6CAD5 /* flappy2.png in Resources */,
+				80FEE5B01E855E7200A6CAD5 /* pipe1.png in Resources */,
+				80FEE5AE1E855E7200A6CAD5 /* flappy1.png in Resources */,
 				80FEE5851E855DCD00A6CAD5 /* LaunchScreen.storyboard in Resources */,
 				80FEE5791E855DCD00A6CAD5 /* Actions.sks in Resources */,
+				80FEE5B51E85AF3E00A6CAD5 /* flap.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +461,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 7P5A5MFF2S;
 				INFOPLIST_FILE = "Flappy Bird Game/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "vaibhav.Flappy-Bird-Game";
@@ -436,6 +475,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 7P5A5MFF2S;
 				INFOPLIST_FILE = "Flappy Bird Game/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "vaibhav.Flappy-Bird-Game";
